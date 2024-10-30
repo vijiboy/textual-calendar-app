@@ -14,9 +14,7 @@
     "@preact/signals": "https://esm.sh/*@preact/signals@1.2.1",
     "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.5.0",
     "twind": "https://esm.sh/twind@0.16.19",
-    "twind/": "https://esm.sh/twind@0.16.19/",
-    "tailwindcss": "npm:tailwindcss@3.3.5",
-    "tailwindcss/": "npm:/tailwindcss@3.3.5/"
+    "twind/": "https://esm.sh/twind@0.16.19/"
   },
   "compilerOptions": {
     "jsx": "react-jsx",
@@ -26,6 +24,5 @@
     "rules": {
       "tags": ["fresh", "recommended"]
     }
-  },
-  "nodeModulesDir": "auto"
+  }
 }
